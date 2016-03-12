@@ -10,6 +10,8 @@
 3 作业三：charles的ssl和网易云音乐app的ssl安装
 ====================================================
 
+
 4 作业四：IOS打包APP及路径
 ====================================================
 ![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/4_1.png)
+![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/4_2.png)
