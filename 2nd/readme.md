@@ -5,6 +5,7 @@
 ![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/2_1.png)
 ![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/2_2.png)
 ##3 charles的ssl和网易云音乐app的ssl安装
+![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/3.png)
 ##4 IOS打包APP及路径
 ![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/4_1.png)
 ![image](https://github.com/Test-Seven/TangJixu/blob/master/2nd/4_2.png)
